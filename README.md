@@ -1,5 +1,8 @@
 #  💸🐯 Tigrinho 🐯💸
 
+Projeto de Redes de Computadores - UFAL.
+
+
 # 🚀 começando 
 
 Primeiro é necessário os arquivos do projeto. Existem duas maneiras de fazer isso:
