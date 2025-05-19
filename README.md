@@ -56,7 +56,7 @@ Primeiro é necessário os arquivos do projeto. Existem duas maneiras de fazer i
    
 # ✒️ Autores
 
-  * João Gabriel - Desenvolvedor 
+  * José Gabriel - Desenvolvedor 
   * Tainara Gomes - Relatório
   * Matheus Melo - Documentação
   * Wanessa - Relatório 
